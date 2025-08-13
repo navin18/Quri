@@ -20,7 +20,7 @@ Experience real-time voice interaction with newsletters, note-taking, and app na
 |--------|-------------|
 | [Frontend – Swift iOS App](https://github.com/navin18/quri-frontend) | iOS app built with Swift and SwiftUI for voice-based navigation and interaction. |
 | [Backend – Email Processing Service](https://github.com/navin18/quri-backend) | FastAPI service that parses emails, extracts newsletters, and prepares content for AI interaction. |
-| [Backend – Real-Time Voice Agent](https://github.com/navin18/quri-backend) | Handles LLM integration, WebSocket communication, and real-time voice responses using TTS/STT pipelines. |
+| [Backend – Real-Time Voice Agent](https://github.com/navin18/quri-voice) | Handles LLM integration, WebSocket communication, and real-time voice responses using TTS/STT pipelines. |
 
 ---
 
